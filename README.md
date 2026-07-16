@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563EB,100:1E293B&text=Ahmed%20Hatem%20Omran&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=58"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,100:1E293B&text=Ahmed%20Hatem%20Omran&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=58"/>
+
+# Hi, I'm Ahmed Hatem Omran 👋
+
+### Software Engineer • Full Stack Developer • Backend Enthusiast
+
+<p>
+Building scalable web applications with modern technologies while writing clean, maintainable and production-ready code.
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Ahmed Hatem Omran
-</h1>
-
-<h3 align="center">
-Software Engineer • Full Stack Developer • Building Scalable Web Applications
-</h3>
-
-<p align="center">
+<p>
 
 <a href="mailto:ahmedhatemomran@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -26,26 +26,28 @@ Software Engineer • Full Stack Developer • Building Scalable Web Application
 
 </p>
 
+</div>
+
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-I'm a Software Engineer passionate about designing scalable software, building production-ready web applications, and solving real-world engineering problems.
+I'm a **Software Engineer** passionate about building software that solves real-world problems.
 
-I enjoy working across the entire development lifecycle—from designing secure backend systems and REST APIs to building responsive frontends and deploying cloud-based applications.
+I enjoy designing scalable backend systems, building secure REST APIs, developing modern frontend applications, and deploying production-ready software to the cloud.
 
-### Currently focusing on
+Currently I'm focused on improving my knowledge in:
 
-- Backend Engineering
 - Software Engineering
+- Backend Development
 - Full Stack Development
 - System Design
 - Clean Architecture
-- Cloud Deployment
+- Scalable Web Applications
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -79,63 +81,64 @@ I enjoy working across the entire development lifecycle—from designing secure 
 
 </p>
 
-### Tools
+### Cloud & Deployment
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel"/>
+<img src="https://skillicons.dev/icons?i=vercel,docker,git,github"/>
 
 </p>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
+
+## 🏋 Gym Tracker
+
+Production-ready AI-powered fitness tracking platform.
+
+**Highlights**
+
+- AI Nutrition Assistant (Google Gemini)
+- JWT Authentication
+- Google OAuth
+- Role-Based Access Control
+- Workout Tracking
+- Progress Analytics
+- Interactive Dashboard
+- PostgreSQL
+- Django REST Framework
+
+🌐 Live Demo
+
+https://gym-tracker-app-eight.vercel.app/
+
+📂 Repository
+
+https://github.com/ahmed22981/gym_tracker_app
+
+---
 
 ## 🎟 QuickShow
 
-Production-ready online ticket booking platform.
+Online ticket booking platform built with modern web technologies.
 
-### Highlights
+**Highlights**
 
 - Stripe Payments
 - Clerk Authentication
 - Concurrent Seat Reservation
 - Database Locking
-- Inngest Background Jobs
 - Admin Dashboard
+- Inngest Background Jobs
 
-**Repository**
-
-https://github.com/ahmed22981/ticket-booking
-
-**Live Demo**
+🌐 Live Demo
 
 https://ticket-booking-neon.vercel.app/
 
----
+📂 Repository
 
-## 🏋 Gym Tracker
-
-AI-powered fitness tracking platform.
-
-### Highlights
-
-- Django REST Framework
-- PostgreSQL
-- JWT Authentication
-- Google OAuth
-- Google Gemini AI
-- Workout Analytics
-- Nutrition Tracking
-- Progress Dashboard
-
-**Repository**
-
-https://github.com/ahmed22981/gym_tracker_app
-
-**Live Demo**
-
-https://gym-tracker-app-eight.vercel.app/
+https://github.com/ahmed22981/ticket-booking
 
 ---
 
@@ -143,16 +146,16 @@ https://gym-tracker-app-eight.vercel.app/
 
 Real-time social media platform.
 
-### Highlights
+**Highlights**
 
 - Socket.io
 - Real-time Messaging
 - Authentication
-- Posts
-- Comments
+- Posts & Comments
 - Likes
+- User Profiles
 
-**Repository**
+📂 Repository
 
 https://github.com/ahmed22981/social_media
 
@@ -160,9 +163,11 @@ https://github.com/ahmed22981/social_media
 
 ## 🌾 AgriLink
 
-Agricultural marketplace developed as the ITI Graduation Project.
+Agricultural Marketplace
 
-### Highlights
+ITI Graduation Project
+
+**Highlights**
 
 - REST APIs
 - JWT Authentication
@@ -170,25 +175,43 @@ Agricultural marketplace developed as the ITI Graduation Project.
 - Cloudinary
 - Responsive UI
 
-**Repository**
+📂 Repository
 
 https://github.com/GP-AgriLink/AgriLink-MVP
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed22981&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed22981&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22981&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22981&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 📌 Current Focus
+
+```text
+✔ Building Production-Ready Applications
+
+✔ Backend Engineering
+
+✔ System Design
+
+✔ REST API Development
+
+✔ AI Integrations
+
+✔ Scalable Web Applications
+```
+
+---
+
+# 📬 Let's Connect
 
 📧 Email
 
@@ -208,10 +231,12 @@ https://github.com/ahmed22981
 
 ---
 
-<p align="center">
+<div align="center">
 
 ### Thanks for visiting my profile ❤️
 
-Always open to Software Engineering, Backend, Full Stack and Frontend opportunities.
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 
-</p>
+**— Martin Fowler**
+
+</div>
