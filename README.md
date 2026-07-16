@@ -1,190 +1,217 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ahmed%20Hatem%20Omran&fontSize=40&fontColor=ffffff)
-# Hi, I'm Ahmed Hatem Omran 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563EB,100:1E293B&text=Ahmed%20Hatem%20Omran&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=58"/>
+</p>
 
-### Software Engineer | Full Stack Developer
+<h1 align="center">
+Hi 👋 I'm Ahmed Hatem Omran
+</h1>
 
-I'm a Software Engineer passionate about building scalable web applications and solving real-world engineering problems.
+<h3 align="center">
+Software Engineer • Full Stack Developer • Building Scalable Web Applications
+</h3>
 
-I enjoy designing clean backend architectures, building secure REST APIs, developing modern React applications, and delivering production-ready software from idea to deployment.
+<p align="center">
 
-Currently focusing on:
+<a href="mailto:ahmedhatemomran@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- Backend Engineering
-- Full Stack Development
-- Software Engineering
-- Scalable Web Applications
+<a href="https://www.linkedin.com/in/ahmed-omran-310a91317/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ahmed-omran-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## Tech Stack
+# 👨‍💻 About Me
+
+I'm a Software Engineer passionate about designing scalable software, building production-ready web applications, and solving real-world engineering problems.
+
+I enjoy working across the entire development lifecycle—from designing secure backend systems and REST APIs to building responsive frontends and deploying cloud-based applications.
+
+### Currently focusing on
+
+- Backend Engineering
+- Software Engineering
+- Full Stack Development
+- System Design
+- Clean Architecture
+- Cloud Deployment
+
+---
+
+# 🚀 Tech Stack
 
 ### Languages
 
-- JavaScript (ES6+)
-- TypeScript
-- Python
-- SQL
-- C++
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp"/>
+
+</p>
 
 ### Frontend
 
-- React
-- Next.js
-- Angular
-- HTML5
-- CSS3
-- Tailwind CSS
-- Material UI
-- Vite
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,vite"/>
+
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- Django REST Framework
-- NestJS
-- REST APIs
-- JWT Authentication
-- Socket.io
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,nestjs"/>
+
+</p>
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
+<p>
 
-### Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
 
-- Render
-- Vercel
-- Neon
-- Cloudinary
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- Postman
-- Agile
-- OOP
-- Data Structures
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel"/>
+
+</p>
 
 ---
 
-# Featured Projects
+# ⭐ Featured Projects
 
-## Gym Tracker
+## 🎟 QuickShow
 
-Production-ready AI-powered fitness tracking platform.
+Production-ready online ticket booking platform.
 
-### Features
+### Highlights
 
-- Workout Tracking
-- Nutrition Tracking
-- Google Gemini AI Dietitian
-- JWT Authentication
-- Google OAuth
-- Role-Based Access Control
-- Analytics Dashboard
-- Muscle Heatmap
-- Progress Tracking
-
-🔗 Repository
-
-https://github.com/ahmed22981/gym_tracker_app
-
-🌐 Live Demo
-
-https://gym-tracker-app-eight.vercel.app/
-
----
-
-## QuickShow
-
-Online movie ticket booking platform with secure payments.
-
-### Features
-
-- Seat Reservation
 - Stripe Payments
 - Clerk Authentication
-- Booking Dashboard
-- Admin Panel
-- Race Condition Prevention
+- Concurrent Seat Reservation
+- Database Locking
 - Inngest Background Jobs
+- Admin Dashboard
 
-🔗 Repository
+**Repository**
 
 https://github.com/ahmed22981/ticket-booking
 
-🌐 Live Demo
+**Live Demo**
 
 https://ticket-booking-neon.vercel.app/
 
 ---
 
-## InstaLeh
+## 🏋 Gym Tracker
+
+AI-powered fitness tracking platform.
+
+### Highlights
+
+- Django REST Framework
+- PostgreSQL
+- JWT Authentication
+- Google OAuth
+- Google Gemini AI
+- Workout Analytics
+- Nutrition Tracking
+- Progress Dashboard
+
+**Repository**
+
+https://github.com/ahmed22981/gym_tracker_app
+
+**Live Demo**
+
+https://gym-tracker-app-eight.vercel.app/
+
+---
+
+## 📱 InstaLeh
 
 Real-time social media platform.
 
-### Features
+### Highlights
 
+- Socket.io
+- Real-time Messaging
+- Authentication
 - Posts
 - Comments
 - Likes
-- Real-time Messaging
-- Socket.io
-- Authentication
-- User Profiles
 
-🔗 Repository
+**Repository**
 
 https://github.com/ahmed22981/social_media
 
 ---
 
-## AgriLink
+## 🌾 AgriLink
 
 Agricultural marketplace developed as the ITI Graduation Project.
 
-🔗 Repository
+### Highlights
+
+- REST APIs
+- JWT Authentication
+- React Leaflet
+- Cloudinary
+- Responsive UI
+
+**Repository**
 
 https://github.com/GP-AgriLink/AgriLink-MVP
 
 ---
 
-# Portfolio
+# 📊 GitHub Analytics
 
-https://ahmed-omran-portfolio.vercel.app/
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed22981&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed22981&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
 
 ---
 
-# Contact
+# 🌐 Connect With Me
 
-Email
+📧 Email
 
-ahmedhatemomran@gmail.com
+**ahmedhatemomran@gmail.com**
 
-LinkedIn
+💼 LinkedIn
 
 https://www.linkedin.com/in/ahmed-omran-310a91317/
 
-GitHub
+🌍 Portfolio
+
+https://ahmed-omran-portfolio.vercel.app/
+
+🐙 GitHub
 
 https://github.com/ahmed22981
 
 ---
 
-## Currently Learning
+<p align="center">
 
-- Software Architecture
-- System Design
-- Design Patterns
-- Advanced Django
-- Advanced Node.js
-- Microservices
+### Thanks for visiting my profile ❤️
 
----
+Always open to Software Engineering, Backend, Full Stack and Frontend opportunities.
 
-Thanks for visiting my profile ⭐
+</p>
