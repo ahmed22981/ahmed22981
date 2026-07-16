@@ -85,7 +85,6 @@ I love solving challenging engineering problems while writing clean, maintainabl
 
 # 💼 What I'm Working On
 
-- 🏋 Expanding **Gym Tracker** with AI-powered coaching and advanced workout analytics.
 - ⚙ Building scalable backend systems using Django REST Framework and Node.js.
 - 🤖 Exploring AI integrations with Google Gemini APIs.
 - ☁ Deploying production-ready applications using Vercel, Render and Neon.
@@ -93,18 +92,6 @@ I love solving challenging engineering problems while writing clean, maintainabl
 
 ---
 
-# 📚 Currently Learning
-
-- System Design
-- Clean Architecture
-- Design Patterns
-- Docker
-- CI/CD
-- Testing
-- Performance Optimization
-- Microservices
-
----
 
 # 🎯 Areas of Interest
 
@@ -141,9 +128,5 @@ https://github.com/ahmed22981
 <div align="center">
 
 ### Thanks for visiting my profile!
-
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
-
-**— Harold Abelson**
 
 </div>
